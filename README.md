@@ -165,3 +165,24 @@ I'm open to learning opportunities, technical collaboration, and projects involv
 > Build, experiment, learn, and improve. Every problem is an opportunity to create something better.
 
 **Thanks for visiting my profile! Let's build something meaningful with technology. 🚀**
+
+---
+## 📊 My Skills
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,fastapi,mysql,mongodb,supabase,docker,git,github,arduino&perline=5" alt="My technology skills" />
+</p>
+---
+## 👀 Profile Visitors
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EltonDlamini97&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile visitor counter" />
+</p>
+
+---
+## 📈 GitHub Contributions
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EltonDlamini97&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+</p>
