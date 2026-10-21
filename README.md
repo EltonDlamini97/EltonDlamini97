@@ -21,7 +21,7 @@ My journey combines technical problem-solving with practical experience supporti
 
 ---
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=100&lines=Elton+Dlamini" alt="Animated signature of About Me" />
 
 - 🎓 Background in **Intelligent Industrial Systems**, with a focus on technology, automation, and engineering.
 - 📊 Experienced in data analytics, data visualization, reporting, and extracting insights from data.
