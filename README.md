@@ -1,4 +1,3 @@
-# Hi, I'm Elton Dlamini! 👋
 
 <div align="center">
 
