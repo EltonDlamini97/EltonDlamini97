@@ -1,5 +1,15 @@
 # Hi, I'm Elton Dlamini! 👋
 
+<div align="center">
+
+### ✍️ Signed by
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=100&lines=Elton+Dlamini" alt="Animated signature of Elton Dlamini" />
+
+*Building, innovating, and automating the future.* 🚀
+
+</div>
+
 ### 💻 Data Analytics | AI Automation | Software Development | Intelligent Systems
 
 I'm a technology enthusiast passionate about using data, software development, and artificial intelligence to solve real-world problems. With a background in **Intelligent Industrial Systems**, I enjoy exploring the intersection of software engineering, data analytics, automation, robotics, and AI.
